@@ -1,4 +1,4 @@
-### Olá! Sou o Israel 👋
+### Olá! Eu sou o Israel 👋
 
 - 🌱 Estudante de Ciência da Computação
 - 📫 Contate-me no email: israel.qoliveira@gmail.com
