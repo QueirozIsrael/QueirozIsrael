@@ -1,51 +1,44 @@
-<h2 align="left">Hi 😀! My name is Israel. I'm a computer science student from São Paulo, Brazil</h2>
+![vagabond banner](https://github.com/user-attachments/assets/e31136f1-2481-433c-b40e-dcfc0e1f5f7a)
 
-###
+<br/>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="30" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-</div>
+<a href="https://www.linkedin.com/in/israelqueiroz/">
+<img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/israelqz_/">
+<img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<br />
 
-###
+<br />
 
-<div align="left">
-  <a href="https://www.instagram.com/queiroz.css/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.twitch.tv/eboymaromba" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  </a>
-  <a href="eboymaromba" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="israel.qoliveira@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/israelqueiroz/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+Hi,I'm Israel Queiroz🙌, a Back-end Developer, Data Analytic and Machine Learning Enthusiast.❤✌
 
-###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/90/8e/2a/908e2afe4297432ccd493227cbe09963.jpg"  />
+<img height='300' align="right" alt="GIF" src="https://media.giphy.com/media/12W5Sg2koWYnwA/giphy.gif?cid=ecf05e47ossrd7dmm0s95cq89ch00g8fmryfdlhe2qo3wbkm&ep=v1_gifs_related&rid=giphy.gif&ct=g" />
 
-###
 
-<img src="https://raw.githubusercontent.com/QueirozIsrael/QueirozIsrael/output/snake.svg" alt="Snake animation" />
+**Talking about Personal Stuffs:**
 
-###
+- 🔭 I’m currently Intern at PagBank.
+- 🌱 I’m currently learning Java | Spring Boot.
+- 👯 Starting in Developer Community.
+- 💬 Ask me about anything , Would love to answer them.✌
+- 📫 You can also send me an email: iqoliveira@gmail.com 
+
+**Languages and Tools:**
+
+
+<code><img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg"></code>
+<code><img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg"></code>
+<code><img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jenkins-Dark.svg"></code>
+<code><img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg"></code>
+<code><img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/RabbitMQ-Dark.svg"></code>
+<code><img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"></code>
+<code><img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"></code>
+<code><img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg"></code>
+
+
+
+![Israel's github stats](https://github-readme-stats.vercel.app/api?username=QueirozIsrael&show_icons=true&hide_border=true)
